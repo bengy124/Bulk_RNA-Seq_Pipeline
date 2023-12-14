@@ -1,1 +1,1 @@
-# Bulk_RNA-Seq_Pipeline
+# Bulk RNA-Seq Pipeline

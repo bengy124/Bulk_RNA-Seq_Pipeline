@@ -8,6 +8,7 @@ Run the shell script `obtain_fastq.sh` followed by an SRA accession number
 ```
 This will create a directory to prefetch the .sra files and then use fasterq-dump to acquire the fastq files
 
+
 Next run `snakemake` with `-n` option to start a dry run to ensure everything is working then run with `-j` followed by the number of threads you want to utilize to begin the real run
 ```
 # dry run
